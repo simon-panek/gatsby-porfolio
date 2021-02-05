@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),o=n("Bl7J"),i=n("vrFN");t.default=function(){return a.a.createElement(o.a,null,a.a.createElement(i.a,{title:"404: Not found"}),a.a.createElement("div",null,a.a.createElement("h2",{className:"bg-yellow-400 text-2xl font-bold inline-block my-8 p-3"},"This page is lost in the woods...")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-46b901a4b46dd6d444e3.js.map
