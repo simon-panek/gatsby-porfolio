@@ -26,4 +26,4 @@ Created by Tailor Bryant GitHub [taylorbryant](https://github.com/taylorbryant)
 
 #### UML
 
-![Gatsby Portfolio UML](portfolio-starter/401-lab-41a-uml.png)
+![Gatsby Portfolio UML](401-lab-41a-uml.png)
