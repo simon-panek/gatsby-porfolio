@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import catAndHumanIllustration from "../images/cat-and-human-illustration.svg";
+import simonProfilePic from "../images/simon-profile-pic-edit-20200923-1.jpg";
 
 function IndexPage() {
   return (
@@ -15,25 +15,16 @@ function IndexPage() {
       <section className="text-center">
         <img
           alt="Cat and human sitting on a couch"
-          className="block w-1/2 mx-auto mb-8"
-          src={catAndHumanIllustration}
+          className="block w-1/4 mx-auto mb-8"
+          src={simonProfilePic}
         />
 
-        <h2 className="inline-block p-3 mb-4 text-2xl font-bold bg-yellow-400">
-          Hey there! Welcome to your first Gatsby site.
+        <h2 className="inline-block p-3 mb-4 text-2xl font-bold bg-gray-400">
+          Simon Panek
         </h2>
 
         <p className="leading-loose">
-          This is a barebones starter for Gatsby styled using{` `}
-          <a
-            className="font-bold text-gray-900 no-underline"
-            href="https://tailwindcss.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Tailwind CSS
-          </a>
-          , a utility-first CSS framework.
+        I am a full stack developer. I have an MBA and have worked for an equipment manufacturing startup, 3D metal printing startup, and internationally.
         </p>
       </section>
     </Layout>

@@ -15,25 +15,34 @@ function Layout({ children }) {
       <footer className="bg-blue-700">
         <nav className="flex justify-between max-w-4xl p-4 mx-auto text-sm md:p-8">
           <p className="text-white">
-            Created by{` `}
+            &copy; 2021{` `}
             <a
               className="font-bold no-underline"
               href="https://bryant.io"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Taylor Bryant
+              SP
             </a>
           </p>
 
           <p>
             <a
               className="font-bold text-white no-underline"
-              href="https://github.com/taylorbryant/gatsby-starter-tailwind"
+              href="https://github.com/simon-panek"
               target="_blank"
               rel="noopener noreferrer"
             >
               GitHub
+            </a>
+            <a> | </a>
+            <a
+              className="font-bold text-white no-underline"
+              href="https://www.linkedin.com/in/simon-panek/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              LinkedIn
             </a>
           </p>
         </nav>

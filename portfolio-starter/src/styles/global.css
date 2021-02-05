@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.portfolioImage{
+  margin: 2.5%;
+  text-align: center;
+}
+
+#gamesisFigure{
+  display: inline-block;
+}
+
+#portfolio{
+  display: flex; 
+}
