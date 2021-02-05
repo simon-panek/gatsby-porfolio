@@ -14,7 +14,7 @@ function IndexPage() {
 
       <section className="text-center">
         <img
-          alt="Cat and human sitting on a couch"
+          alt="Simon Panek profile pic"
           className="block w-1/4 mx-auto mb-8"
           src={simonProfilePic}
         />
