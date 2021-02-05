@@ -5,9 +5,9 @@ const fullConfig = resolveConfig(tailwindConfig);
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Tailwind`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@taylorbryant`,
+    title: `Home`,
+    description: `Simon Panek Porfolio`,
+    author: `SP`,
   },
   plugins: [
     `gatsby-plugin-eslint`,
